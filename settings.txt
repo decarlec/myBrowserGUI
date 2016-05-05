@@ -1,0 +1,6 @@
+height=907.0
+width=1313.0
+screenX=223.0
+screenY=80.0
+downloadDirectory=C:\Users\Christian\workspace\CST_8284_Assignment3_ChristianDeCarle\downloads\
+homepage=http://www.reddit.com
